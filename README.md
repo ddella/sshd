@@ -1,8 +1,7 @@
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
-# What is FakeAPI
-
+# Alpine Linux with OpenSSH
 Another Docker container build on Alpine Linux with OpenSSH.
 
 ## Build the image
