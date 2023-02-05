@@ -1,0 +1,16 @@
+
+Linux HARDWARE, KERNEL on host HOSTNAME
+
+Welcome to Alpine Docker container 3.17.1!
+
+This Alpine container was build with OpenSSH and networking tools.
+Please issue the command "docker logs <container ID>" to get the
+username and password.
+
+The password for "root" is "root" and it can be used to ssh in the container.
+
+USERNAME:
+PASSWORD:
+
+Thank you for using this container!
+
