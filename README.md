@@ -40,7 +40,7 @@ This is my `Dockerfile`. Adjust the Alpine Linux version:
 
     ENTRYPOINT ["/entrypoint.sh"]
 
-After the build, the imaage should be `~42Mb`.
+After the build, the image should be `~42Mb`.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Run the container
@@ -56,7 +56,7 @@ This is the interactive mode. You will see a username and password for SSH acces
     Server listening on 0.0.0.0 port 22.
     Server listening on :: port 22.
 
->The best way to run the container is to replace the `-it` with `-d`.
+>The best way to run the container is in `detach mode`. Just replace `-it` with `-d`.
 
 Use this command to get the password for the use `remote`, if you run it in `detach mode`:
 ```sh
@@ -107,7 +107,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for more information.
 ## Contact
 Daniel Della-Noce - [Linkedin](https://www.linkedin.com/in/daniel-della-noce-2176b622/) - daniel@isociel.com
 
-Project Link: [https://github.com/ddella/FakeAPI](https://github.com/ddella/FakeAPI)
+Project Link: [https://github.com/ddella/sshd](https://github.com/ddella/sshd)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
